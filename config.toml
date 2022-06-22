@@ -16,7 +16,8 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   author = "Gabriel San Martín"
   header_image = "img/tecladocolores.jpg"
-  SEOTitle = "Blog sobre traducción y videojuegos"
+  Title = "Con tus palabras"
+  SEOTitle = "Con tus palabras | Blog sobre traducción y videojuegos"
   description = "Blog sobre traducción y localización de videojuegos con un toque de lengua y cultura japonesas."
   keyword = "localización, traducción, l10n, videojuegos, japonés"
   slogan = "Blog sobre traducción y videojuegos"
