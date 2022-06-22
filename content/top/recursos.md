@@ -1,3 +1,7 @@
+---
+title:      "Recursos"
+---
+
 Aquí tienes una selección de recursos sobre traducción, videojuegos, Japón y más temas interesantes. La iré ampliando a medida que encuentre y revise material.  
 
 ¿Crees que un recurso debería aparecer aquí? Mándamelo por [correo electrónico](contacto@gabrielsmf.com) o a través de las [redes](https://twitter.com/Gabriel_SanMar).
