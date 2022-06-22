@@ -7,25 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language><atom:link href="https://contuspalabras.com/top/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://contuspalabras.com/top/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://contuspalabras.com/top/about/</guid>
-      <description>Con tus palabras is an ICT veteran with a passion for open source. He has a solid experience in the telecommunication and information technology industry for more than 17 years. Throughout his career, he has built a number of large-scale, cross-country OSS/BSS platforms/systems and operation tools, most of them are still running in productions. He loves open source and has been contributing to a variety of open source projects, including</description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>Recursos</title>
       <link>https://contuspalabras.com/top/recursos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://contuspalabras.com/top/recursos/</guid>
-      <description>Recursos Aquí tienes una selección de recursos sobre traducción, videojuegos, Japón y más temas interesantes. La iré ampliando a medida que los encuentre/revise/les dé el visto bueno.
-¿Crees que un recurso debería aparecer aquí? Mándamelo por correo o a través de las redes.
-Vídeos y canales
- Toda la serie de charlas sobre videojuegos de Fundación Japón Madrid. El canal de Ramón Méndez  Medios especializados en videojuegos
- Mi sitio favorito para informarme sobre videojuegos: Polygon.</description>
+      <description>Aquí tienes una selección de recursos sobre traducción, videojuegos, Japón y más temas interesantes. La iré ampliando a medida que encuentre y revise material.
+¿Crees que un recurso debería aparecer aquí? Mándamelo por correo electrónico o a través de las redes.
+Videojuegos y localización Libros
+ Localización de videojuegos de Pablo Muñoz Sánchez (editorial Síntesis, 2017). Un manual muy completo que sirve tanto para aprender sobre localización de videojuegos de forma autodidacta como de material de consulta cuando surge una duda.</description>
+    </item>
+    
+    <item>
+      <title>Sobre el blog</title>
+      <link>https://contuspalabras.com/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://contuspalabras.com/top/about/</guid>
+      <description>Con tus palabras es un blog sobre traducción y localización de videojuegos con un toque de lengua y cultura japonesas. Uno de los propósitos de este blog es comentar la localización de videojuegos por sus méritos o dificultad. Juro por lo que quieras que no he participado en ninguna de ellas, y que todo todito lo que diga serán impresiones personales que no representan a ninguna empresa. Puede que los temas se desvíen a los videojuegos, la lengua en sí o lo que surja.</description>
     </item>
     
   </channel>
