@@ -16,13 +16,13 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   author = "Gabriel San Martín"
   header_image = "img/tecladocolores.jpg"
-  SEOTitle = "Con tus palabras"
-  description = "赵化冰，程序员, 开源爱好者，生活探险家 | 这里是 赵化冰 的博客，与你一起发现更大的世界。"
+  SEOTitle = "Blog sobre traducción y videojuegos"
+  description = "Blog sobre traducción y localización de videojuegos con un toque de lengua y cultura japonesas."
   keyword = "localización, traducción, l10n, videojuegos, japonés"
   slogan = "Blog sobre traducción y videojuegos"
 
-  image_404 = "img/404-bg.jpg"
-  title_404 = "你来到了没有知识的荒原 :("
+  image_404 = "img/error404.jpg"
+  # title_404 = "Aquí no hay nada que ver."
   omit_categories = false
 
   # leancloud storage for page view counter
@@ -37,9 +37,9 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "Me llamo Gabriel San Martín, traductor de videojuegos, friki de poca monta, segundo de mi nombre y felinés honorario de la Casa Mystic. En este blog voy a comentar la localización de videojuegos por sus méritos o dificultad. No he participado en ninguna de ellas, y todo todito lo que diga serán impresiones personales y no representan a ninguna empresa. También hablaré de traducción, lengua, videojuegos y lo que surja. Intentaré que los temas sean de rabiosa actualidad y relevancia, pero la vida y la industria van a toda pastilla, chiquis."
-  #sidebar_avatar = "img/fotomia.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
-  sidebar_avatar = "img/fotomia.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_about_description = "Soy Gabriel San Martín, traductor de videojuegos, friki de poca monta, segundo de mi nombre y felinés honorario del equipo Bellaco. Siempre acabo yendo a parar a la docencia (de inglés y japonés, en el pasado, y más recientemente, de localización de videojuegos). Decidí publicar este blog para compartir lo que aprendo enseñando."
+  #sidebar_avatar = "img/fotoperfil.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/fotoperfil.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
   featured_condition_size = 0 
@@ -75,7 +75,7 @@ home = ["HTML", "RSS", "Algolia"]
   #googleplus    = "full profile url in googleplus"
   twitter       = "https://twitter.com/Gabriel_SanMar"
   linkedin       = "https://www.linkedin.com/in/gabriel-smf/"
-  website        = "https://www.google.com"
+  website        = "https://www.gabrielsmf.com"
   #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
   #github         = "https://github.com/yourgithub"
