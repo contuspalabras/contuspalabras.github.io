@@ -14,7 +14,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  author = "Gabriel San Martín"
+  author = "Gabriel San Martín Fernández"
   header_image = "img/tecladocolores.jpg"
   Title = "Con tus palabras"
   SEOTitle = "Con tus palabras | Blog sobre traducción y videojuegos"
@@ -38,7 +38,7 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "Soy Gabriel San Martín, traductor de videojuegos, friki de poca monta, segundo de mi nombre y felinés honorario del equipo Bellaco. Siempre acabo yendo a parar a la docencia (de inglés y japonés, en el pasado, y más recientemente, de localización de videojuegos). Decidí publicar este blog para compartir lo que aprendo enseñando."
+  sidebar_about_description = "Soy Gabriel San Martín, traductor de videojuegos, friki de poca monta, segundo de mi nombre y felinés honorario del equipo Bellaco. Por azar o vocación, siempre acabo yendo a parar a la docencia (de inglés y japonés, en el pasado, y más recientemente, de localización de videojuegos). Decidí publicar este blog para compartir lo que aprendo enseñando."
   #sidebar_avatar = "img/fotoperfil.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
   sidebar_avatar = "img/fotoperfil.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -72,7 +72,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   [params.social]
   rss            = true 
-  email          = "contacto@gabrielsmf.com"
+  email          = "contact@gabrielsmf.com"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   twitter       = "https://twitter.com/Gabriel_SanMar"
