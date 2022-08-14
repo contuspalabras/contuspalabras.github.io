@@ -4,8 +4,8 @@ title:      "Recursos"
 
 Aquí tienes una selección de recursos sobre traducción, videojuegos, Japón y más temas interesantes. La iré ampliando a medida que descubra y revise material.  
 
-¿Crees que un recurso debería aparecer aquí? Mándamelo por [correo electrónico](contact@gabrielsmf.com) o a través de las [redes](https://twitter.com/Gabriel_SanMar).
-
+¿Crees que un recurso debería aparecer aquí? Mándamelo por [correo electrónico](contact@gabrielsmf.com) o a través de las [redes](https://twitter.com/Gabriel_SanMar).  
+&nbsp;
 
 ## Videojuegos y localización
 
@@ -30,14 +30,13 @@ Aquí tienes una selección de recursos sobre traducción, videojuegos, Japón y
 
 
 ## Inclusividad
-
+&NewLine;
 * [Glosario neutro EN-ES (LatAm)](https://t.co/1ilqwInmMx), iniciativa de [Carolina Panero](https://caropanero.ar/), [Yesica Terceros](https://twitter.com/yesica_terceros), Carla di Biase y [Tamara Morales](https://twitter.com/Tamslator). Una recopilación colaborativa de **términos y expresiones** usados a menudo en localización, con alternativas **sin marca de género**, con la que también me encantaría colaborar. Si existe una versión ibérica, que alguien me avise ipsoflautamente.
 
-
 ## Accesibilidad
-
+&NewLine;
 * [Can I Play That?](https://caniplaythat.com/), sitio especializado en la accesibilidad de videojuegos y tecnología. En él se publican reseñas sobre videojuegos, centrándose en la facilidad de uso para personas con diversos tipos de discapacidad. Aunque estén dirigidas principalmente a los estudios de desarrollo, **toda persona que trabaje en videojuegos debería familiarizarse con las pautas de sus [guías](https://caniplaythat.com/category/resources/accessibility-reference-guides/)**.
 
 ## Lengua y cultura japonesas
-
+&NewLine;
 * En el [blog de Espai Daruma](https://espaidaruma.com/blog/) se publican artículos sobre disintos temas relacionados con la cultura japonesa tradicional y actual.
