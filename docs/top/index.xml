@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tops on Con tus palabras</title>
-    <link>https://contuspalabras.com/top/</link>
+    <link>https://www.contuspalabras.com/top/</link>
     <description>Recent content in Tops on Con tus palabras</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language><atom:link href="https://contuspalabras.com/top/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language><atom:link href="https://www.contuspalabras.com/top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recursos</title>
-      <link>https://contuspalabras.com/top/recursos/</link>
+      <link>https://www.contuspalabras.com/top/recursos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://contuspalabras.com/top/recursos/</guid>
+      <guid>https://www.contuspalabras.com/top/recursos/</guid>
       <description>Aquí tienes una selección de recursos sobre traducción, videojuegos, Japón y más temas interesantes. La iré ampliando a medida que descubra y revise material.
 ¿Crees que un recurso debería aparecer aquí? Mándamelo por correo electrónico o a través de las redes.
 Videojuegos y localización Libros
@@ -20,10 +20,10 @@ Videojuegos y localización Libros
     
     <item>
       <title>Sobre el blog</title>
-      <link>https://contuspalabras.com/top/about/</link>
+      <link>https://www.contuspalabras.com/top/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://contuspalabras.com/top/about/</guid>
+      <guid>https://www.contuspalabras.com/top/about/</guid>
       <description>Con tus palabras es un blog sobre traducción y localización con un toque de lengua y cultura japonesas. Uno de los propósitos de este blog es comentar la localización de videojuegos por sus méritos o dificultad. Juro por lo que quieras que no he participado en ninguna de ellas y que todo todito lo que diga serán impresiones personales que no representan a ninguna empresa. Puede que los temas se desvíen a los videojuegos, la lengua en sí o lo que surja.</description>
     </item>
     
