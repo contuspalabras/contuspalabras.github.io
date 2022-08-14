@@ -1,4 +1,4 @@
-baseurl = "https://contuspalabras.com"
+baseurl = "https://www.contuspalabras.com"
 title = "Con tus palabras"
 theme = "hugo-theme-cleanwhite"
 defaultContentLanguage = 'es'
