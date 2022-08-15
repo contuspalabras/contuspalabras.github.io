@@ -2,9 +2,9 @@
 layout:     post 
 title:      "¡Hola, internauta!"
 subtitle:   "Te doy la bienvenida a mi dominio"
-date:       2022-08-11
+date:       2022-08-15
 author:     "Gabriel San Martín"
-URL: "/2022/08/11/hola-internauta/"
+URL: "/2022/08/15/hola-internauta/"
 image:      "img/tecladocolores.jpg"
 Description: "Gracias por pasarte por este rinconcito de la red de redes. Ya que estás aquí, ¿por qué no me cedes unos minutos para que te explique de qué va esto? No me mires como si estuviera vendiéndote enciclopedias, ¡que has entrado tú! Prometo que no te apartaré demasiados minutos de tus obligaciones o de las redes sociales."
 showtoc: false
