@@ -4,29 +4,30 @@ title:      "Recursos"
 
 Aquí tienes una selección de recursos sobre traducción, videojuegos, Japón y más temas interesantes. La iré ampliando a medida que descubra y revise material.  
 
-¿Crees que un recurso debería aparecer aquí? Mándamelo por [correo electrónico](contact@gabrielsmf.com) o a través de las [redes](https://twitter.com/Gabriel_SanMar).  
+¿Crees que un recurso debería aparecer aquí? Mándamelo por [correo electrónico](mailto:contact@gabrielsmf.com) o a través de las [redes](https://twitter.com/Gabriel_SanMar).  
 &nbsp;
 
 ## Videojuegos y localización
 
 #### Libros
-* *[Localización de videojuegos](https://www.sintesis.com/tecnolog%C3%ADas%20digitales-320/localizaci%C3%B3n%20de%20videojuegos-ebook-2415.html)* (editorial Síntesis, 2017) de [Pablo Muñoz Sánchez](https://algomasquetraducir.com/quien-es-pablo-munoz/). Un **manual muy completo** que sirve tanto para aprender sobre localización de videojuegos de forma autodidacta como de material de consulta cuando surge una duda.
+* _[Localización de videojuegos](https://www.sintesis.com/tecnolog%C3%ADas%20digitales-320/localizaci%C3%B3n%20de%20videojuegos-ebook-2415.html)_ (editorial Síntesis, 2017) de [Pablo Muñoz Sánchez](https://algomasquetraducir.com/quien-es-pablo-munoz/). Un **manual muy completo** que sirve tanto para aprender sobre localización de videojuegos de forma autodidacta como de material de consulta cuando surge una duda.
 
 #### Blogs
-* No puede faltar una mención a [Algo más que traducir](https://algomasquetraducir.com/), el blog también obra de Pablo Muñoz, que ha inspirado la creación de este.
+* No puede faltar una mención a _[Algo más que traducir](https://algomasquetraducir.com/)_, el blog también obra de Pablo Muñoz, que ha inspirado la creación de este.
 
 #### Terminología
-* Este [glosario EN-ES](https://www.lexonomy.eu/?#/l10nvideojuegos) de **vocabulario común en traducción de videojuegos** es una prometedora iniciativa de [Celia Rocha Taboas](https://celiarochataboas.carrd.co/) a la que me gustaría contribuir.
-* El [glosario EN-ES (LatAm)](https://t.co/RNNfoiVrq3) de [Guido Di Carlo](https://twitter.com/guidogameloc) y [colaboradores](https://twitter.com/guidogameloc/status/1318180485852504064) también es una referencia excelente.
+* Este [glosario EN-ES](https://www.lexonomy.eu/?#/l10nvideojuegos) de **vocabulario común en traducción de videojuegos** es una prometedora iniciativa de [Celia Rocha Táboas](https://celiarochataboas.carrd.co/) a la que me gustaría contribuir.
+* El [glosario EN-ES (LatAm)](https://t.co/RNNfoiVrq3) de [Guido Di Carlo](https://twitter.com/guidogameloc) _et [al.](https://twitter.com/guidogameloc/status/1318180485852504064)_ también es un recurso excelente.
 
 #### Medios especializados en videojuegos
-* [Polygon.com](https://www.polygon.com/) (en inglés), mi sitio favorito para ponerme al día en videojuegos. No les perdonaré que echaran a Jenna Stoeber, pero eso no es culpa de sus excolegas.
+* [Polygon.com](https://www.polygon.com/) (en inglés), mi sitio favorito para ponerme al día en videojuegos. No les perdonaré que echaran a Jenna Stoeber, pero eso no es culpa de sus excolegas ni resta calidad al contenido.
 * [AnaitGames](https://www.anaitgames.com/), mi sitio de referencia en español.
 
 #### Vídeos y canales
 * Toda la serie de [charlas sobre videojuegos japoneses](https://www.youtube.com/playlist?list=PLXOewk4vECoB8U-dmGk7_lLDcojV5Ra8K) de Fundación Japón Madrid. Y todas sus charlas, en general.
-* [Petisoperías](https://www.youtube.com/c/Petisoper%C3%ADas), el canal de YouTube de [Ana Calvo Porrúa](https://mobile.twitter.com/ACPorrua), en el que encontrarás vídeos sobre cómo se tradujeron titulacos como _[The Witcher 3: Wild Hunt](https://youtu.be/G_y6BJUhx80)_ y también una [breve historia de la localización de videojuegos](https://youtu.be/c7P0sbqZ1Dc).
-* Los canales de [YouTube](https://www.youtube.com/c/polygon) y de [Twitch](https://www.twitch.tv/polygon) de Polygon, por supuesto.
+* _[Petisoperías](https://www.youtube.com/c/Petisoper%C3%ADas)_, el canal de YouTube de [Ana Calvo Porrúa](https://mobile.twitter.com/ACPorrua), en el que encontrarás vídeos sobre cómo se tradujeron titulacos como _[The Witcher 3: Wild Hunt](https://youtu.be/G_y6BJUhx80)_ y también una [breve historia de la localización de videojuegos](https://youtu.be/c7P0sbqZ1Dc).
+* Los vídeos del [canal de YouTube de Polygon](https://www.youtube.com/c/polygon), auténticas obras de arte que analizan en profundidad aspectos fascinantes de los mejores videojuegos.
+* El canal de [YouTube](https://www.youtube.com/channel/UC0hBd4IxV777gwf1Mx5uWqw) y de [Twitch](https://www.twitch.tv/the_jenna) de [Jenna Stoeber](https://linktr.ee/thejenna), donde hace directos de juegos actuales y más clásicos, populares y menos conocidos.
 
 
 ## Inclusividad
